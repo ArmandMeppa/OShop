@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Oshop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# OShop
+Ecommerce Angular app
+>>>>>>> e0e2fd3229a4a935bbd5a29469d4a4ca30a27a04
