@@ -1,0 +1,2 @@
+# OShop
+Ecommerce Angular app
